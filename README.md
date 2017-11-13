@@ -1,2 +1,4 @@
 # hello-world
-First test repo
+First branch on the test repo
+
+Working on GitHub tutorial activity
